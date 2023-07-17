@@ -1469,6 +1469,18 @@ header .logo a {
 	color: #219ced;
 }
 
+#link {
+	color: #FFFFFF;
+	font-size: 3.3rem;
+	padding: 50px;
+}
+
+#linklink {
+	color: #ffffff;
+}
+#linklink:hover {
+	color: #219ced;
+}
 /**
  * responsive:
  * Intro
