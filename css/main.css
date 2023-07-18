@@ -2554,11 +2554,13 @@ header .logo a {
  */
 footer {
 	padding-bottom: 3rem;
+	padding-top: 3rem;
 	font-size: 1.4rem;
 	font-family: "poppins-regular", sans-serif;
+	background-color: #0e0e0e;
 }
 footer a, footer a:visited {
-	color: #FFFFFF;
+	color: #8c8c8c;
 }
 footer a:hover, footer a:focus {
 	color: #219ced;
@@ -2583,7 +2585,7 @@ footer .footer-social li {
 	padding: 0;
 }
 footer .footer-social li a {
-	color: #FFFFFF;
+	color: #ffffff;
 }
 footer .copyright span {
 	display: inline-block;
@@ -2596,6 +2598,10 @@ footer .copyright span::after {
 }
 footer .copyright span:last-child::after {
 	display: none;
+}
+
+#copee {
+	color: rgb(56, 56, 56);
 }
 
 /**
